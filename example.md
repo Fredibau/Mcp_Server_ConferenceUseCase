@@ -1,7 +1,5 @@
 # Conference Trip Planning Conversation Summary
 
-![Use Case](resources/McpUseCase.png)
-
 This document summarizes the conversation with the AI assistant for planning a trip to the Ubicomp-ISWC conference.
 
 ## Conversation Flow
@@ -72,3 +70,7 @@ These extensions would require adding new tools, integrations, or core server ca
 *   **Automated Registration:** Beyond booking travel, handle the conference registration process itself, including selecting rates like "academic."
 *   **Advanced Travel Preferences:** Prioritize train travel over flights where practical, which would require a new tool for searching train routes, including night trains.
 *   **Financial Management:** Manage travel expenses against a monthly credit card limit to avoid overspending and schedule bookings accordingly.
+
+**Visualisation**
+
+![Use Case](resources/McpUseCase.png)
