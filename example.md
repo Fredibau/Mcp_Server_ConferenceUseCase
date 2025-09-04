@@ -1,6 +1,6 @@
 # Conference Trip Planning Conversation Summary
 
-![Use Case](resources\McpUseCase.png)
+![Use Case](resources/McpUseCase.png)
 
 This document summarizes the conversation with the AI assistant for planning a trip to the Ubicomp-ISWC conference.
 
