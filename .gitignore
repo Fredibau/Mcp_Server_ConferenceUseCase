@@ -65,3 +65,6 @@ typings/
 
 # Windows files
 Thumbs.db
+
+#environment variables
+.env
